@@ -1,0 +1,15 @@
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\bin\Debug\net7.0\Homework8.exe
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\bin\Debug\net7.0\Homework8.deps.json
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\bin\Debug\net7.0\Homework8.runtimeconfig.json
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\bin\Debug\net7.0\Homework8.dll
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\bin\Debug\net7.0\Homework8.pdb
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\obj\Debug\net7.0\Homework8.csproj.AssemblyReference.cache
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\obj\Debug\net7.0\Homework8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\obj\Debug\net7.0\Homework8.AssemblyInfoInputs.cache
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\obj\Debug\net7.0\Homework8.AssemblyInfo.cs
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\obj\Debug\net7.0\Homework8.csproj.CoreCompileInputs.cache
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\obj\Debug\net7.0\Homework8.dll
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\obj\Debug\net7.0\refint\Homework8.dll
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\obj\Debug\net7.0\Homework8.pdb
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\obj\Debug\net7.0\Homework8.genruntimeconfig.cache
+C:\Users\Vera_\OneDrive\Документы\GB\C sharp\Seminar\Seminar_C_Sharp\Homework8\obj\Debug\net7.0\ref\Homework8.dll
